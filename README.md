@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackDiamondIce
 - 👀 I’m interested in chess, boarder games, comp games.
-- 🌱 I’m currently learning english and suomi languages.
+- 🌱 I’m currently learning english and finnish languages.
 - 💞️ I’m looking to collaborate on all the world.
 - 📫 How to reach me telegram: @gde_lampa.
 
