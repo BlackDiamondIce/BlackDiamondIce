@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BlackDiamondIce
-- 👀 I’m interested in chess, boarder games, comp games.
+- 👀 I’m interested in chess, boarder games, computer games.
 - 🌱 I’m currently learning english and finnish languages.
 - 💞️ I’m looking to collaborate on all the world.
-- 📫 How to reach me telegram: @gde_lampa.
+- 📫 How to reach me telegram: @gde_lampa or email alexmogutnov@duck.com.
 
 <!---
 BlackDiamondIce/BlackDiamondIce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
